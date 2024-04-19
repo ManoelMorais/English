@@ -1,10 +1,10 @@
 A, AN ----> *Singular* and *Generic* person or thing
 
-<h3><i>Indefinite Article </i></h3>
+<h3><i>Artigo Indefinido</i></h3>
 
-a === Before consonant *sound*
+**a** === Antes de som de consoante
 
-an === Before vowel *sound* <br/><br/>
+**an** === Antes de som de vogal
 
 *an* astronaut
 
@@ -20,8 +20,8 @@ an === Before vowel *sound* <br/><br/>
 
 *an* hour
 
-*a* Europen
+*a* European
 
-*an* ygly
+*an* ugly
 
 *a* universe

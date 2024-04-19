@@ -1,23 +1,47 @@
-# Professions
+# Profissões
 
-Businessman <br> Businesswoman <br> Recptionist <br> Psychologist <br> Secretery <br> Policemna <br> Engineer <br> 
-Architect <br> Fireman <br> Doctor <br> Nurse <br> Dentist <br> Lawyer <br> Actor <br> Actress
+| Profissões   |
+|--------------|
+| Businessman  |
+| Businesswoman|
+| Receptionist |
+| Psychologist |
+| Secretary    |
+| Policeman    |
+| Engineer     |
+| Architect    |
+| Fireman      |
+| Doctor       |
+| Nurse        |
+| Dentist      |
+| Lawyer       |
+| Actor        |
+| Actress      |
 
-# Marid Status
+# Estado Civil
 
-Single <br> Engaged=noivo <br> Married <br> Dovorce <br> Widow(woman) <br> Widower(man)
+| Estado Civil |
+|--------------|
+| Single       |
+| Engaged (noivo)|
+| Married      |
+| Divorce      |
+| Widow (mulher) |
+| Widower (homem)|
 
-# Personal Characteristics
+# Características Pessoais
 
-ygly != Beautiful(woman) --- Handsome(man) <br>
-Organized != Disorganized <br>
-Polite != impolite == Rude <br>
-Responsible != Inresponsible <br>
-Nice != Nasty == Awful <br> 
-Optmistic != Pessimistic <br>
-Shy != Outgoing <br>
-Honest != DIshonest <br>
-Inteligent != Dumb <br>
-Nervous != Calm <br>
-Dynamic != Lazy <br>
-Happy != Unhappy 
+| Característica   | Contrário(s)             |
+|------------------|--------------------------|
+| Beautiful (mulher) | Ugly / Handsome (homem) |
+| Organized        | Disorganized             |
+| Polite           | Impolite / Rude          |
+| Responsible      | Irresponsible            |
+| Nice             | Nasty / Awful            |
+| Optimistic       | Pessimistic              |
+| Shy              | Outgoing                 |
+| Honest           | Dishonest                |
+| Intelligent      | Dumb                     |
+| Nervous          | Calm                     |
+| Dynamic          | Lazy                     |
+| Happy            | Unhappy                  |
