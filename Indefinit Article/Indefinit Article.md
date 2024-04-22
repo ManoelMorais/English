@@ -1,6 +1,6 @@
-A, AN ----> *Singular* and *Generic* person or thing
+# A, AN ----> *Singular* and *Generic* person or thing
 
-<h3><i>Artigo Indefinido</i></h3>
+## Artigo Indefinido
 
 **a** === Antes de som de consoante
 

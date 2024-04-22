@@ -18,7 +18,7 @@
 | Actor        |
 | Actress      |
 
-# Estado Civil
+## Estado Civil
 
 | Estado Civil |
 |--------------|
@@ -29,7 +29,7 @@
 | Widow (mulher) |
 | Widower (homem)|
 
-# Características Pessoais
+## Características Pessoais
 
 | Característica   | Contrário(s)             |
 |------------------|--------------------------|

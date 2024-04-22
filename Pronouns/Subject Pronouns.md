@@ -1,6 +1,6 @@
-<h1>Subject Pronouns</h1>
+# Subject Pronouns
 
-**Singular**
+## Singular
 
 | Pronome | Tradução  |
 |---------|-----------|
@@ -10,7 +10,7 @@
 | She     | Ela       |
 | It      | Coisa ou animal |
 
-**Plural**
+## Plural
 
 | Pronome | Tradução  |
 |---------|-----------|

@@ -1,6 +1,7 @@
 # Números Cardinais
 
 ## 1 a 10
+
 1 - One  
 2 - Two  
 3 - Three  
@@ -13,6 +14,7 @@
 10 - Ten  
 
 ## 11 a 19
+
 11 - Eleven  
 12 - Twelve  
 13 - Thirteen  
@@ -24,6 +26,7 @@
 19 - Nineteen  
 
 ## Dezenas
+
 20 - Twenty  
 21 - Twenty-one  
 22 - Twenty-two  
@@ -36,10 +39,12 @@
 90 - Ninety  
 
 ## Centenas
+
 100 - One hundred  
 200 - Two hundred  
 
 ## Milhares
+
 1,000 - One thousand  
 2,000 - Two thousand  
 572 - Five hundred seventy-two  
