@@ -4,3 +4,4 @@
 |----------|--------------|
 |   eyes   |     olhos    |
 |   well   |      bem     |
+|   rain   |    chuva     |
