@@ -1,6 +1,6 @@
 # Palavras
 
-|  Palavra |  Significado |
+|  Palavra |  Tradução |
 |----------|--------------|
 |   eyes   |     olhos    |
 |   well   |      bem     |
