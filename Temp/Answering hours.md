@@ -10,7 +10,7 @@
 
 Divide o relógio em 2 partes, quando os minutos estiverem entre 1 e 30, usa-se **past**, e quando estiverem entre 31 e 59, usa-se **to**.
 
-### Exemplos
+**Exemplo:**
 
 - It is twenty PAST one
 - São uma e vinte.
@@ -26,7 +26,7 @@ Divide o relógio em 2 partes, quando os minutos estiverem entre 1 e 30, usa-se 
 
 Divide o relógio em duas partes, no minuto quinze, usa-se **a quarter**, no minuto 30, usa-se **Half**, no minuto 45, usa-se **a quarter**.
 
-### Exemplo
+**Exemplo:**
 
 - It is A QUARTER past ten
 - São dez e quinze.

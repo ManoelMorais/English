@@ -18,7 +18,7 @@ They are tall </br>
 She is a beautiful woman </br>
 We are Brazilian </br>
 My mother is intelligent </br>
-I am a doctor 
+I am a doctor
 
 ## To have
 
@@ -30,7 +30,7 @@ I am a doctor
 My brother has green eyeas </br>
 My wife and doughter have big eyes </br>
 I have brown hair </br>
-Laura has beautiful long hair 
+Laura has beautiful long hair
 
 ## To look + adjective
 
