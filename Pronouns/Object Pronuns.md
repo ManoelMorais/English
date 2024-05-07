@@ -1,11 +1,11 @@
 # Object Pronouns
 
-  - Subject Pronouns:
-    - Realiza a acção do verbo
-    - Há um verbo depois dele
-  - Obect Pronouns:
-    - Sofrem a ação do verbo
-    - Não há verbo depois dele
+- Subject Pronouns:
+  - Realiza a acção do verbo
+  - Há um verbo depois dele
+- Obect Pronouns:
+  - Sofrem a ação do verbo
+  - Não há verbo depois dele
 
 ***
 
