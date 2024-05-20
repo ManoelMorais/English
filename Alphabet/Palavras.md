@@ -9,3 +9,4 @@
 |   mouth  |    boca      |
 |   piece  |    pedaço    |
 |  Weather |  Tempo/Clima |
+|  Couple  |    Casal     |
