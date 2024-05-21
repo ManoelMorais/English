@@ -16,11 +16,11 @@
 ## Sentence contruction
 
 - AFF: SP + **was / were** complement
-  - E.g? He was my friend
+  - E.g: He was my friend
 - NEG: SP + **was / were + not** + complement
-  - E.g? He was not my friend
+  - E.g: He was not my friend
 - INT: **was / were** + SP + complement
-  - Was he your firend ?
+  - E.g: Was he your firend ?
 
 **Exemples:**
 
