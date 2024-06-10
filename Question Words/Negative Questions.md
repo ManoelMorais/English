@@ -1,0 +1,22 @@
+# Negative Questions
+
+- 1º - Use to ask for confirmation about something you believe to be true
+  - Aren't you a vegetarian?
+  - Didn't you buy a new car last week?
+  - Doesn't he understand?
+  - Wasn't John traveling with his wife and kids?
+  - Aren't they working now?
+- No contracted form:
+  - Are you not a vegetarian?
+  - Did you not buy a new car last week?
+  - Does he not understand?
+  - Was John not traveling with his wife and kids?
+  - Are they not working now?
+- 2º - Used with the Question Word "Why" when you want to give an advice
+  - Why don't we rest for a while?
+  - Why doesn't Pablo quit that terrible job?
+  - Why don't you study more?
+- Just want to know the reason
+  - Why doesn't he go to parties?
+  - Why didn't they like mw?
+  - Why isn't Mondy talking with her sister?
