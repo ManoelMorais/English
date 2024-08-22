@@ -16,11 +16,11 @@
 ## Sentence contruction
 
 - AFF: SP + verb to be + **(verb + ing)** + complement
-  - E.g? He is watching TV
+  - E.g: He is watching TV
 - NEG: SP + verb to be + **not** + **(verb + ing)** + complement
-  - E.g? He is **not watching** TV
+  - E.g: He is **not watching** TV
 - INT: verb to be + SP + **(verb + ing)** + complement
-  - Is he watching TV?
+  - E.g: Is he watching TV?
 
 ## SPELLING RULES
 
