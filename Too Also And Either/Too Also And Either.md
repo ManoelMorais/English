@@ -23,6 +23,7 @@ Negative Sentences: Replace "Too" or "Also" with "Either" at the end of negative
 
 - E.g:
   - Tom won't miss the flight
-  - Anna won't miss the flight either
+  - Anna won't miss the flight
+  -----------------------
   - I didn't buy a new car
   - Your brother didn't buy a new car either
